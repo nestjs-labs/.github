@@ -34,11 +34,12 @@ This is my personal organization where I collect and maintain useful NestJS pack
 ### Testing
 - [jest](https://github.com/facebook/jest) - Jest is a JavaScript testing framework.
 - [supertest](https://github.com/visionmedia/supertest) - Supertest is a library for testing HTTP servers.
-- [nestjs-testing](https://github.com/nestjs/testing) - NestJS Testing is a library for testing NestJS applications.
+- [golevelup/ts-jest](https://github.com/golevelup/ts-jest) - [NestJS Testing is a library for testing NestJS applications](https://www.npmjs.com/package/@golevelup/ts-jest).
 
 ## Forked Repositories
 
 ### CLI Tools
+- [nestjs-labs/dev](https://github.com/nestjs-labs/dev) - A monorepo for NestJS development environment, providing reusable ESLint and TypeScript configurations.
 - [nestjs-config](https://github.com/nestjs-labs/nestjs-config) - Support zod schema validation.
 - [nestjs-redis](https://github.com/nestjs-labs/nestjs-redis) - Support redis module.
 - [nestjs-pino-extra](https://github.com/nestjs-labs/nestjs-pino-extra) - Enhanced nestjs-pino with OpenTelemetry integration, file rotation, Loki support, and enterprise features for production-ready logging.
