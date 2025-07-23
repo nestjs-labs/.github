@@ -34,7 +34,7 @@ This is my personal organization where I collect and maintain useful NestJS pack
 ### Testing
 - [jest](https://github.com/facebook/jest) - Jest is a JavaScript testing framework.
 - [supertest](https://github.com/visionmedia/supertest) - Supertest is a library for testing HTTP servers.
-- [golevelup/ts-jest](https://github.com/golevelup/ts-jest) - [NestJS Testing is a library for testing NestJS applications](https://www.npmjs.com/package/@golevelup/ts-jest).
+- [golevelup/ts-jest](https://github.com/golevelup/nestjs) - NestJS Testing is a library for testing NestJS applications.
 
 ## Forked Repositories
 
